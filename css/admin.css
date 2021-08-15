@@ -1,0 +1,31 @@
+body{
+    background-color: #F9FAFE;
+}
+
+
+.left{
+    background-color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+
+.dropdown-toggle{
+    border: none;
+    background-color:#ffff;
+    
+}
+
+.icon ul{
+    list-style-type: none;
+}
+.icon ul li{
+    padding: 10px 20px;
+    color: black;
+}
+.icon ul li a{
+    text-decoration: none;
+    color: black;
+}
+

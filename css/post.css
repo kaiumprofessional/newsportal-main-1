@@ -1,0 +1,55 @@
+body {
+    background-color: #E0E0E0;
+}
+
+.left {
+    width: 100px;
+    height: 100vh;
+    background-color: #fcfcfc;
+
+}
+
+.left ul {
+    list-style: none;
+    position: absolute;
+    top: 15%;
+}
+
+.left ul li {
+    margin-top: 30px;
+    font-size: 40px;
+}
+
+.left ul li a {
+    text-decoration: none;
+}
+
+.left ul li a i {
+    color: rgb(38, 0, 255);
+}
+
+
+.post {
+    width: 90%;
+    height: 800px;
+    position: absolute;
+    top: 20px;
+    left: 200px
+}
+
+.table-container {
+    width: 300px;
+    margin: 5px auto;
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+.header-title {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.tsz {
+    text-size-adjust: 30px;
+}

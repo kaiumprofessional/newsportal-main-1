@@ -1,0 +1,25 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background: url('../images/wall-wallpaper-concrete-colored-painted-textured-concept.jpg');
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+    opacity: 0.8;
+}
+.signup{
+    width: 610px;
+    height: 555px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-40%);
+}
+.signup form{
+    position: relative;
+    left: 110px;
+    top:60px;
+    
+}
