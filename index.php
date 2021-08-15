@@ -125,7 +125,7 @@
 
 				<div class="col-lg-6 pic">
 					<?php
-					$i = 0;
+					$i = 2;
 					while ($i--) {
 						$row = $result->fetch_assoc();
 					?>
